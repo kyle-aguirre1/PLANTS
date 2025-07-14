@@ -4,7 +4,7 @@
   <meta charset="utf-8">
 <meta name="description" content="Explore a variety of indoor plants for your home or office."/>
 </head>
-<body style=background-color:gray">
+<body style="background-color:gray">
 <h1 style="color:green">Indoor Plants</h1>
  <h2 style="color:darkgreen">Peace Lily</h2>
  <p style="color:white">The Peace Lily, known for its elegant white flowers, is
